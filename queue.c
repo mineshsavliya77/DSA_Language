@@ -52,8 +52,7 @@ void disp()
     }
 }
 
-
-
+void exit();
 int main()
 {
     int choic;
